@@ -53,18 +53,18 @@ section{
     
 }
 .section1{
-    background-image: url(image/top-banner.png);
+    background-image: url(Image/top-banner.png);
     background-repeat: no-repeat;
     
 }
 .section2{
-    background-image: url(image/dream-bg.png);
+    background-image: url(Image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     margin-top: 50px;
 }
 .section3{
-    background-image: url(image/exp-bg.png);
+    background-image: url(Image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
